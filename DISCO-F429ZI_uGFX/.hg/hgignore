@@ -1,0 +1,29 @@
+syntax: glob
+.hg
+.git
+.svn
+.CVS
+.cvs
+*.orig
+.build
+.export
+.msub
+.meta
+.ctags*
+*.uvproj
+*.uvopt
+*.project
+*.cproject
+*.launch
+*.ewp
+*.eww
+Makefile
+Debug
+*.htm
+*.settings
+mbed_settings.py
+*.py[cod]
+# subrepo ignores
+BSP_DISCO_F429ZI
+LCD_DISCO_F429ZI
+TS_DISCO_F429ZI
